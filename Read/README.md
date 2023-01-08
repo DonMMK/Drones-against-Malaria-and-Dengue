@@ -24,7 +24,7 @@
 ### Vegetation indices (VI), please learn some basic ideas about VI
 
 
-## Literature Review & Published Paper
+## Literature Review & Published Papers
 #### Agricultural Drone Industry Insight Report
 Link: https://ag.dji.com/newsroom/ag-news-en-ag2022
 

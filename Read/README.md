@@ -31,4 +31,4 @@ Link: https://ag.dji.com/newsroom/ag-news-en-ag2022
 
 
 #### UAV-spray application in vineywards
-[a link]([https://github.com/user/repo/blob/branch/other_file.md](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/1-s2.0-S004896972204390X-main.pdf))
+[a link](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/1-s2.0-S004896972204390X-main.pdf)

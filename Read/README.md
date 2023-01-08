@@ -1,6 +1,6 @@
-# Literature Review
+# Proposal for topic
 
-TO DO 
+## Research these headings
 ### Bioagent methods against malaria and dengue:
 
 
@@ -24,5 +24,6 @@ TO DO
 ### Vegetation indices (VI), please learn some basic ideas about VI.
 
 
-
+## Literature Review & Published Paper
+#### Agricultural Drone Industry Insight Report
 Link: https://ag.dji.com/newsroom/ag-news-en-ag2022

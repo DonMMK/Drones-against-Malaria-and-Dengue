@@ -1,6 +1,4 @@
-# Proposal for topic
-
-## Call with Felipe and Narmilan for Drone Spot Spraying at SERF
+# Thesis Proposal: Drones against Malaria and Dengue
 
 
 ## Research these headings
@@ -40,9 +38,10 @@ https://dl.djicdn.com/downloads/t10/T10_User_Manual_v1.4_EN.pdf
 
 - What is the difference between NDVI and EVI? Answer: NDVI is a vegetation index that uses the reflectance of near-infrared and red light to determine the amount of chlorophyll in the target. EVI is a vegetation index that uses the reflectance of near-infrared, red, and blue light to determine the amount of chlorophyll in the target.
 
-#### Meeting #1: Drone Spot Spraying at SERF with Felipe, Narmilan, Dean and Gavin
+#### Meeting #1: Drone Spot Spraying at SERF with Felipe, Narmilan, Dean and Gavin on 14th February
+- For undergraduate thesis work help will be given on drone flying procedure and good to get hands on experience to write for the thesis.
 
-
+- In the 13 weeks, water will be sprayed. In the first flight the M300 multi-spectral camera will be flown to get the imagery. When water is present at SERF a map will be made to spray. (I will have to make the map and specify the speed, drift, spray rate, distribution rate). The T10 will be used on the second flight to spary the water. A more in-depth investigation will be needed about the functionality and limitations of the T10.
 
 #### Meeting #2: UAV Spot Spraying pipeline with Narmilan
 - micasense altum has 5 bands (rgb and red h and near infra red) altum pt??
@@ -79,7 +78,7 @@ https://dl.djicdn.com/downloads/t10/T10_User_Manual_v1.4_EN.pdf
 
 
 
-- TO DO, install QGIS and play with image -> develop VI and original image, Laballing, for pix4d. Then import the ortho into gis tool and region of interest and polygon / pixelwise labelling. 
+- TO DO after meeting, install QGIS and play with image -> develop VI and original image, Laballing, for pix4d. Then import the ortho into gis tool and region of interest and polygon / pixelwise labelling. 
 
 - for image processing many avaible. for spot spraying hard to find papers.
 
@@ -137,9 +136,26 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 
 #### UAV-based multispectral vegetation indices for assessing the interactive effects of water and nitrogen in iriigated horticultural crops production under tropical sub-humid conditions
-[UAV-based mutlispectral vegetation indices](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/1-s2.0-S0378377422000634-main.pdf)  
+[UAV-based multispectral vegetation indices](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/1-s2.0-S0378377422000634-main.pdf)  
 
 ##### Important points
+(Highlights)  
+
+
+(Abstract)
+
+
+(Introduction) 
+
+
+(Materials and Methods)  
+
+
+(Result and Discussion)  
+
+
+(Conclusion)  
+
 
 #### Key Takeaways
 
@@ -148,6 +164,22 @@ ground losses in comparison to the best UAV-spray system configuration.
 [High accuracy detection of malaria vector larval habits](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/High-accuracy%20detection%20of%20malaria%20vector.pdf)  
 
 ##### Important points
+(Highlights)  
+
+
+(Abstract)
+
+
+(Introduction) 
+
+
+(Materials and Methods)  
+
+
+(Result and Discussion)  
+
+
+(Conclusion)  
 
 #### Key Takeaways
 
@@ -156,6 +188,22 @@ ground losses in comparison to the best UAV-spray system configuration.
 [Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/IGARSS2019.pdf)  
 
 ##### Important points
+(Highlights)  
+
+
+(Abstract)
+
+
+(Introduction) 
+
+
+(Materials and Methods)  
+
+
+(Result and Discussion)  
+
+
+(Conclusion)  
 
 #### Key Takeaways
 

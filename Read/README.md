@@ -1,7 +1,7 @@
 # Thesis Proposal: Drones against Malaria and Dengue
 
 
-## Research these headings
+## Topics to be Researched
 #### Bioagent methods against malaria and dengue
 - Bioagent is a bacterium, virus, protozoan, parasite, fungus, or toxin that can be used for a specfic purpose.
 

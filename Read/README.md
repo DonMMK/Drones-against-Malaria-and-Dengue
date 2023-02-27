@@ -82,6 +82,8 @@ https://dl.djicdn.com/downloads/t10/T10_User_Manual_v1.4_EN.pdf
 
 - for image processing many avaible. for spot spraying hard to find papers.
 
+#### Meeting #3: Understanding the necessary software with Narmilan
+
 ## Literature Review & Published Papers
 #### Agricultural Drone Industry Insight Report
 Link: https://ag.dji.com/newsroom/ag-news-en-ag2022

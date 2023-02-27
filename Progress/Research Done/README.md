@@ -32,6 +32,6 @@ https://dl.djicdn.com/downloads/t10/T10_User_Manual_v1.4_EN.pdf
 
 #### Vegetation indices (VI), please learn some basic ideas about VI
 - What is a vegetation index? Answer: A vegetation index is a mathematical formula that uses the reflectance of light from a target to determine the amount of chlorophyll in the target.
-- What are Vegetation indices? (Taken from Narmilan's Paper: detection of White Leaf Disease...) 
+- List of vegetation indices can be found here: https://www.indexdatabase.de/db/i.php 
 
 - What is the difference between NDVI and EVI? Answer: NDVI is a vegetation index that uses the reflectance of near-infrared and red light to determine the amount of chlorophyll in the target. EVI is a vegetation index that uses the reflectance of near-infrared, red, and blue light to determine the amount of chlorophyll in the target.

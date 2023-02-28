@@ -84,3 +84,21 @@ VI or Vegetation Index is actually a spectral index, i.e. a combination of spect
 - for image processing many avaible. for spot spraying hard to find papers.
 
 #### Meeting #3: Understanding the necessary software with Narmilan
+
+Software used: Agisoft Metasoft to create the ortho then import into QGIS for Cropping/ROI, Labelling and ML Processing
+
+Creating and Exporting the ortho can be found here for the P4:
+https://agisoft.freshdesk.com/support/solutions/articles/31000159853-dji-phantom-4-multispectral-data-processing
+
+For my project where the multispectral camera is used the following tutorial can be used
+https://agisoft.freshdesk.com/support/solutions/articles/31000148381-micasense-altum-processing-workflow-including-reflectance-calibration-in-agisoft-metashape-professi
+
+
+Raster Calculator based on the vegetation index
+
+Labelling with 
+
+
+Remeber which bands correspond
+
+

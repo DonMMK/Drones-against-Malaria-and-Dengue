@@ -87,16 +87,27 @@ VI or Vegetation Index is actually a spectral index, i.e. a combination of spect
 
 Software used: Agisoft Metasoft to create the ortho then import into QGIS for Cropping/ROI, Labelling and ML Processing
 
+Agisoft Metashape:
 Creating and Exporting the ortho can be found here for the P4:
 https://agisoft.freshdesk.com/support/solutions/articles/31000159853-dji-phantom-4-multispectral-data-processing
 
 For my project where the multispectral camera is used the following tutorial can be used
 https://agisoft.freshdesk.com/support/solutions/articles/31000148381-micasense-altum-processing-workflow-including-reflectance-calibration-in-agisoft-metashape-professi
 
+Add the images and align. Use moderate or low quality.
+Export the image to QGIS.
+
+
+QGIS:
+Creating Shape file layer
+Save as roi
+Use as a polygon
+Create it
+Id initally set to 0
 
 Raster Calculator based on the vegetation index
 
-Labelling with 
+Labelling with id and class. 
 
 
 Remeber which bands correspond

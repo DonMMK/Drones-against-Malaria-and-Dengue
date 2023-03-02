@@ -35,7 +35,11 @@ key role in vineyards spray applications.
 ground losses in comparison to the best UAV-spray system configuration.
 
 (Introduction)  
-- In mechanized commercial vinyards pesticide residue in food reports are increasing (0.4% to 0.9%).
+- In mechanized commercial vinyards pesticide residue in food reports are increasing (0.4% to 0.9%) (EFSA, 2021).
+- During spray applications a considerable amount of chemical becomes off-target losses.
+- Precision agricultural techniques have improved the spary applications resulkting in benefits in reducing environmental and human contamination risks, improving PPP benefits and raising food quality standards.
+- Aerial Spraying from UAVs is challenegin in terms of UAV path planning definition but in recent years has been spreading worldwide. It is largely used in Asia.
+- 1) Cruise speed 2) flight height 3) number of spray passages per each row 4) nozzle size and type 5) liquid pressure 6) number of active nozzles.
 - 
 
 (Materials and Methods)  

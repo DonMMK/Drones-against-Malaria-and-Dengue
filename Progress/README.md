@@ -113,3 +113,6 @@ Labelling with id and class.
 Remeber which bands correspond
 
 
+## Lectures, Resources, Slides
+#### Week 1
+- Learning outcomes

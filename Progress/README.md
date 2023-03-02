@@ -38,6 +38,7 @@ VI or Vegetation Index is actually a spectral index, i.e. a combination of spect
 
 - What is the difference between NDVI and EVI? Answer: NDVI is a vegetation index that uses the reflectance of near-infrared and red light to determine the amount of chlorophyll in the target. EVI is a vegetation index that uses the reflectance of near-infrared, red, and blue light to determine the amount of chlorophyll in the target.
 
+- For the purposes of my project find Vegetation indices that can differentiate between grass and water puddles/logging.
 
 ## Meetings
 #### Meeting #1: Drone Spot Spraying at SERF with Felipe, Narmilan, Dean and Gavin on 14th February

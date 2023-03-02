@@ -27,7 +27,7 @@ key role in vineyards spray applications.
 3. Different UAV cruise speeds (1 and 3 ms-1)
 4. Using UAV spray system or airblast spray system
 
--  Results for each varibale changed 
+-  Results for each variable changed 
 1. Band spray affects application efficiency by increasing canopy deposition.
 2. Conventional nozzle type showed better coverage and lower ground loss.
 3. 
@@ -40,6 +40,7 @@ ground losses in comparison to the best UAV-spray system configuration.
 - Precision agricultural techniques have improved the spary applications resulkting in benefits in reducing environmental and human contamination risks, improving PPP benefits and raising food quality standards.
 - Aerial Spraying from UAVs is challenegin in terms of UAV path planning definition but in recent years has been spreading worldwide. It is largely used in Asia.
 - 1) Cruise speed 2) flight height 3) number of spray passages per each row 4) nozzle size and type 5) liquid pressure 6) number of active nozzles.
+- The downwash effect of UAV rotors is important in increasing the canopy deposition in crops, especially in bush or tree crops. This effect is used to move foliage and convey droplets into the canopy, increasing the chances of reaching the innermost leaves. Researchers have highlighted difficulties in penetrating canopies due to their shape and density in citrus orchards. The UAV path and flight mode are crucial in relation to the planting system and tree shapes.
 - 
 
 (Materials and Methods)  

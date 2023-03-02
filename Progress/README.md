@@ -115,4 +115,4 @@ Remeber which bands correspond
 
 ## Lectures, Resources, Slides
 #### Week 1
-- Learning outcomes
+- Learning outcomes: Follow the style guide. 

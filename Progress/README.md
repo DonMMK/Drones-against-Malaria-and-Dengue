@@ -113,6 +113,40 @@ Labelling with id and class.
 
 Remeber which bands correspond
 
+#### Meeting #4:
+
+#### Meeting #5:
+
+#### Meeting #6:
+
+#### Meeting #7:
+
+#### Meeting #8:
+
+#### Meeting #9:
+
+#### Meeting #10:
+
+#### Meeting #11:
+
+#### Meeting #12:
+
+#### Meeting #13:
+
+#### Meeting #14:
+
+#### Meeting #15:
+
+#### Meeting #16:
+
+#### Meeting #17:
+
+#### Meeting #18:
+
+#### Meeting #19:
+
+#### Meeting #20:
+
 
 ## Lectures, Resources, Slides
 #### Week 1

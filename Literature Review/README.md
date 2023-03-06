@@ -174,17 +174,25 @@ ground losses in comparison to the best UAV-spray system configuration.
 ##### Important points
 (Abstract)
 - Remote sensing techniques based on UAVs and DL can be used to detect objects of interest - in this instance it will be detecting white leaf disease which is an economically significant disease in the sugarcane industry.
-- 
+- Uses 3 RGB bands for detections. 
+- Used exisiting mdoels sucha s the YOLOv5, YOLOR,DETR and faster R-CNN models for detection - the yolov5 was the best and detr was the worst. 
 
 (Introduction) 
-
+- For the purposes of detection of agricultural dieseases the use of small unmanned aerial vehicels along with the use of AI detection techniques was established to be the most effective method.
+- Comparison of traditional AI methods and emerging DL techniques 
+- About the efficiency of yolo models and ability to draw bounding boxes
+- 
 
 (Methodology)  
 2.1. Process Pipeline
+- acquisition, pre-processing, labelling, DL architecture, and prediction
+![image](https://user-images.githubusercontent.com/71302996/223220972-9343c2bd-b829-4b97-82ad-0397d55cdcd6.png)
 
 2.2. Study Area
+- sri lanka
 
 2.3. UAV Image Acquisition
+- 
 
 2.4. Ground Truth Data Collection
 

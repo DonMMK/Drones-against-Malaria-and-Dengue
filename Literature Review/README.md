@@ -41,13 +41,20 @@ ground losses in comparison to the best UAV-spray system configuration.
 - Aerial Spraying from UAVs is challenegin in terms of UAV path planning definition but in recent years has been spreading worldwide. It is largely used in Asia.
 - 1) Cruise speed 2) flight height 3) number of spray passages per each row 4) nozzle size and type 5) liquid pressure 6) number of active nozzles.
 - The downwash effect of UAV rotors is important in increasing the canopy deposition in crops, especially in bush or tree crops. This effect is used to move foliage and convey droplets into the canopy, increasing the chances of reaching the innermost leaves. Researchers have highlighted difficulties in penetrating canopies due to their shape and density in citrus orchards. The UAV path and flight mode are crucial in relation to the planting system and tree shapes.
-- 
 
-(Materials and Methods)  
+(Materials and Methods) 
 
+- Used a DJI Matrice 600 Pro. Other specifics used are mentioned but not important for the purposes of my investigation as using a M300 and T10 drone.
 
-(Result and Discussion)  
+(Experimental Design)  
+- Explore the 12 different configurations used for the various tests. Configurations attached below.
+![image](https://user-images.githubusercontent.com/71302996/222997744-864680e0-36fa-4b5e-a9ed-1b21d6339a68.png)
 
+(Experimental Layout)
+
+(Field test and vineyard characteristics)
+
+()
 
 (Conclusion)  
 

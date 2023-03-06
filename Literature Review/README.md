@@ -172,11 +172,8 @@ ground losses in comparison to the best UAV-spray system configuration.
 [Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/remotesensing-14-06137.pdf)  
 
 ##### Important points
-(Highlights)  
-
-
 (Abstract)
-
+- Remote sensing techniques based on UAVs and DL can be used to detect objects of interest - in this instance it will be detecting white leaf disease which is an economically significant disease in the sugarcane industry.
 
 (Introduction) 
 

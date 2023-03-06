@@ -6,7 +6,8 @@ Link: https://ag.dji.com/newsroom/ag-news-en-ag2022
 
 
 #### UAV-spray application in vineyards and spray system adjustments effects on canopy deposit, coverage, and off-target losses
-[UAV-spray application in vineywards](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/1-s2.0-S004896972204390X-main.pdf)  
+[UAV-spray application in vineywards](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature-Review
+/1-s2.0-S004896972204390X-main.pdf)  
 
 ##### Important points
 (Highlights)  

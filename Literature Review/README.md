@@ -169,7 +169,7 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 
 #### Detection of White Leaf Disease in Sugarcane Crops Using UAV-Derived RGB Imagery with Existing Deep Learning Models
-[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/IGARSS2019.pdf)  
+[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/remotesensing-14-06137.pdf)  
 
 ##### Important points
 (Highlights)  

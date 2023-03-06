@@ -151,3 +151,6 @@ Remeber which bands correspond
 ## Lectures, Resources, Slides
 #### Week 1
 - Learning outcomes: Follow the style guide. 
+![image](https://user-images.githubusercontent.com/71302996/223206192-e2edfff7-0274-429f-a37c-da38ff6ee481.png)
+![image](https://user-images.githubusercontent.com/71302996/223206231-fbcc67db-36b3-44e0-9119-455cd027f43e.png)
+

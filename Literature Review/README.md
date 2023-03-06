@@ -43,23 +43,54 @@ ground losses in comparison to the best UAV-spray system configuration.
 - The downwash effect of UAV rotors is important in increasing the canopy deposition in crops, especially in bush or tree crops. This effect is used to move foliage and convey droplets into the canopy, increasing the chances of reaching the innermost leaves. Researchers have highlighted difficulties in penetrating canopies due to their shape and density in citrus orchards. The UAV path and flight mode are crucial in relation to the planting system and tree shapes.
 
 (Materials and Methods) 
-
+2.1 UAV-spary system
 - Used a DJI Matrice 600 Pro. Other specifics used are mentioned but not important for the purposes of my investigation as using a M300 and T10 drone.
 
-(Experimental Design)  
+2.2 Experimental Design   
 - Explore the 12 different configurations used for the various tests. Configurations attached below.
 ![image](https://user-images.githubusercontent.com/71302996/222997744-864680e0-36fa-4b5e-a9ed-1b21d6339a68.png)
 
-(Experimental Layout)
+2.3 Experimental Layout  
+- nothing to add to my experiment
+ 
+2.4 Field test and vineyard characteristics  
+- nothing to add to my experiment
 
-(Field test and vineyard characteristics)
+2.5 Enviromental conditions monitoring  
 
-()
+2.6 Droplet size spectra characteristics
+
+2.7 Spray mixture and tracer concentration
+
+2.7.1 Spray deposit quantiﬁcation
+
+2.8. Images analysis for spray coverage characterisation
+
+2.9. Statistical and data analysis
+
+(Results and discussion)
+3.1. Canopy deposit
+
+3.2. Canopy coverage
+
+3.3. Ground deposit
+
+3.4. In-depth analysis of the 1-way band ﬂight mode
+
+3.4.1. Canopy deposit: spatial canopy spray deposit distribution and canopy penetration
+
+3.4.2. Ground deposit: spatial distribution of the ground losses
+
+3.5. Comparison between UAV and airblast sprayers
 
 (Conclusion)  
-
-
-
+- The field trials allowed to identify which of the operational parameters were optimal for vineyard spraying.
+- 1) Flight mode was the paramter that affected spraying the most. UAV is aligned with the vine row orientation, made it possible to target the spray on the crop canopy as much as possible, thus maximising the deposition and minimising the off target losses on the ground.
+- 2) Nozzle type also affects the efficiency of the application
+- 3) Cruise speed was set to 3ms-1 to reduce spray loses
+- 4) The spray rate which was set for 53 L ha-1 was demonstrated to be insufficient to guarantee an adequate spray deposit density for insecticide or fungicide spray applications.
+- 5) The spray application rate must be increased using the UAV-spray system
+- 6) Deposit distribution shows how the relative distance between the spray source and the target is a key parameter irrespective of application technique.
 
 #### Key Takeaways
 

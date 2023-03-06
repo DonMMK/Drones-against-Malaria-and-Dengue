@@ -194,11 +194,34 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 2.6. Image Tiles
 
+2.7. Image Augmentation
 
+2.8 Image Labelling
 
+2.9. Steps in Different DL Models
 
-(Result and Discussion)  
+2.9.1. YOLOv5
 
+2.9.2. YOLOR
+
+2.9.3 DETR
+
+2.9.4 Faster R-CNN
+
+2.10 Evaluation Metrics
+
+(Results)  
+3.1 Visual Analysis of Evaluation Indicators during Training 
+
+3.2 Comparison of DL model performances
+
+3.3 Training Duration 
+
+3.4 Bounding Box Detection Results from the Different DL Models
+
+3.5 Model Comparison with previous work
+
+(Discussion)
 
 (Conclusion)  
 

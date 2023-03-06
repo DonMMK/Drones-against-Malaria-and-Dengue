@@ -204,3 +204,27 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 #### Key Takeaways
 
+
+#### Unmanned aerial vehicles for surveillance and control of vectors of malaria and other vector‑borne diseases
+[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/s12936-022-04414-0.pdf)  
+
+##### Important points
+(Highlights)  
+
+
+(Abstract)
+
+
+(Introduction) 
+
+
+(Methodology)  
+2.1. Process Pipeline
+
+
+(Result and Discussion)  
+
+
+(Conclusion)  
+
+#### Key Takeaways

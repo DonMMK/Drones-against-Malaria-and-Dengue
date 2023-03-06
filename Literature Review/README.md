@@ -96,7 +96,7 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 
 #### UAV-based multispectral vegetation indices for assessing the interactive effects of water and nitrogen in iriigated horticultural crops production under tropical sub-humid conditions
-[UAV-based multispectral vegetation indices](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/1-s2.0-S0378377422000634-main.pdf)  
+[UAV-based multispectral vegetation indices](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/1-s2.0-S0378377422000634-main.pdf)  
 
 ##### Important points
 (Highlights)  
@@ -121,7 +121,7 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 
 #### High accuracy detection of malaria vector larval habits using drone-based multispectral imagery
-[High accuracy detection of malaria vector larval habits](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/High-accuracy%20detection%20of%20malaria%20vector.pdf)  
+[High accuracy detection of malaria vector larval habits](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/High-accuracy%20detection%20of%20malaria%20vector.pdf)  
 
 ##### Important points
 (Highlights)  
@@ -145,7 +145,7 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 
 #### Leak detection in Water Transmission Systems by multispectral Remote Sensing with Airplane and UAV
-[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/IGARSS2019.pdf)  
+[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/IGARSS2019.pdf)  
 
 ##### Important points
 (Highlights)  
@@ -169,7 +169,7 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 
 #### Detection of White Leaf Disease in Sugarcane Crops Using UAV-Derived RGB Imagery with Existing Deep Learning Models
-[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Read/remotesensing-14-06137.pdf)  
+[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/remotesensing-14-06137.pdf)  
 
 ##### Important points
 (Highlights)  

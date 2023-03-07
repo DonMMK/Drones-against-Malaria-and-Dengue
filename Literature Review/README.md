@@ -192,32 +192,49 @@ ground losses in comparison to the best UAV-spray system configuration.
 - sri lanka
 
 2.3. UAV Image Acquisition
-- 
+- DJI Phantom 4 was used with a real-time kinematic module. 
 
 2.4. Ground Truth Data Collection
+- Ground truth tags were added adjacent to the plants with WLD.
 
 2.5. Image Orthomosaics
+- Initial image pre-processing consisted of using Agisoft Metashape to create RGB Orthomosaics. 
+- This consisted of mainly alignment, 2.5D digital elevation model (DEM) generation, and orthomosaic creation. 
 
 2.6. Image Tiles
+- na
 
 2.7. Image Augmentation
+- To increase the model's performance, augementation was used on the training and validation set images. (Augementation only doen on validation data set under certain circumstances).
 
 2.8 Image Labelling
+- Use LabelImg to label the images. (Python based image labelling tool)
 
 2.9. Steps in Different DL Models
+- ?
 
 2.9.1. YOLOv5
+- Used google colab to train a cloned instance of yolo v5.
 
 2.9.2. YOLOR
+- similar to the yolo v5 but has pre-trained weights.
 
 2.9.3 DETR
+- converted from yolo to coco (.txt to .json) 
+- process similar to yolo R
 
 2.9.4 Faster R-CNN
+- used detectron2 library to train the model.
 
 2.10 Evaluation Metrics
+- 1) Precision = mean of total number of correctly detected WLD images / total number of detected WLD images.
+- 2) Recall = average of total number of correctly detected WLD images / total number of successfully identified and undetected images.
+- 3) Intersection over union (IoU) = mean of the intersection of the ground truth and predicted bounding boxes / mean of the union of the ground truth and predicted bounding boxes.
+- 4) mAP = mean of the average precision (AP) of all classes. Q is the number of classes.  
 
 (Results)  
 3.1 Visual Analysis of Evaluation Indicators during Training 
+- Wandb was used to track the training process of the DL models.
 
 3.2 Comparison of DL model performances
 

@@ -237,6 +237,7 @@ ground losses in comparison to the best UAV-spray system configuration.
 - Wandb was used to track the training process of the DL models.
 
 3.2 Comparison of DL model performances
+![image](https://user-images.githubusercontent.com/71302996/223305584-8e26c88d-3f1b-490d-a9f6-fb96347d1bf2.png)
 
 3.3 Training Duration 
 

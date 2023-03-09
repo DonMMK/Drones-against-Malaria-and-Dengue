@@ -114,7 +114,11 @@ Labelling with id and class.
 Remeber which bands correspond
 
 #### Meeting #4: Meeting with Felipe 9th March
-
+- Things to clarify with felipe
+a) Project deliverables
+b) Next steps with flying the drone m300
+c) licensing and other things needed for me
+d) For assessment. Requirements
 
 #### Meeting #7:
 

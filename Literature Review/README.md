@@ -95,79 +95,6 @@ ground losses in comparison to the best UAV-spray system configuration.
 #### Key Takeaways
 
 
-#### UAV-based multispectral vegetation indices for assessing the interactive effects of water and nitrogen in iriigated horticultural crops production under tropical sub-humid conditions
-[UAV-based multispectral vegetation indices](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/1-s2.0-S0378377422000634-main.pdf)  
-
-##### Important points
-(Highlights)  
-
-
-(Abstract)
-
-
-(Introduction) 
-
-
-(Materials and Methods)  
-
-
-(Result and Discussion)  
-
-
-(Conclusion)  
-
-
-#### Key Takeaways
-
-
-#### High accuracy detection of malaria vector larval habits using drone-based multispectral imagery
-[High accuracy detection of malaria vector larval habits](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/High-accuracy%20detection%20of%20malaria%20vector.pdf)  
-
-##### Important points
-(Highlights)  
-
-
-(Abstract)
-
-
-(Introduction) 
-
-
-(Materials and Methods)  
-
-
-(Result and Discussion)  
-
-
-(Conclusion)  
-
-#### Key Takeaways
-
-
-#### Leak detection in Water Transmission Systems by multispectral Remote Sensing with Airplane and UAV
-[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/IGARSS2019.pdf)  
-
-##### Important points
-(Highlights)  
-
-
-(Abstract)
-
-
-(Introduction) 
-
-
-(Materials and Methods)  
-
-
-(Result and Discussion)  
-
-
-(Conclusion)  
-
-#### Key Takeaways
-
-
 #### Detection of White Leaf Disease in Sugarcane Crops Using UAV-Derived RGB Imagery with Existing Deep Learning Models
 [Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/remotesensing-14-06137.pdf)  
 
@@ -239,8 +166,10 @@ ground losses in comparison to the best UAV-spray system configuration.
 3.2 Comparison of DL model performances
 ![image](https://user-images.githubusercontent.com/71302996/223305584-8e26c88d-3f1b-490d-a9f6-fb96347d1bf2.png)
 
-3.3 Training Duration 
+- overral the yolo v5 model was the best performing model.
 
+3.3 Training Duration 
+- YOLOv5 (6h) , YOLOR (12h), DETR (30h), Faster R-CNN (3h) 
 3.4 Bounding Box Detection Results from the Different DL Models
 
 3.5 Model Comparison with previous work
@@ -267,6 +196,79 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 (Methodology)  
 2.1. Process Pipeline
+
+
+(Result and Discussion)  
+
+
+(Conclusion)  
+
+#### Key Takeaways
+
+
+#### UAV-based multispectral vegetation indices for assessing the interactive effects of water and nitrogen in iriigated horticultural crops production under tropical sub-humid conditions
+[UAV-based multispectral vegetation indices](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/1-s2.0-S0378377422000634-main.pdf)  
+
+##### Important points
+(Highlights)  
+
+
+(Abstract)
+
+
+(Introduction) 
+
+
+(Materials and Methods)  
+
+
+(Result and Discussion)  
+
+
+(Conclusion)  
+
+
+#### Key Takeaways
+
+
+#### High accuracy detection of malaria vector larval habits using drone-based multispectral imagery
+[High accuracy detection of malaria vector larval habits](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/High-accuracy%20detection%20of%20malaria%20vector.pdf)  
+
+##### Important points
+(Highlights)  
+
+
+(Abstract)
+
+
+(Introduction) 
+
+
+(Materials and Methods)  
+
+
+(Result and Discussion)  
+
+
+(Conclusion)  
+
+#### Key Takeaways
+
+
+#### Leak detection in Water Transmission Systems by multispectral Remote Sensing with Airplane and UAV
+[Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/IGARSS2019.pdf)  
+
+##### Important points
+(Highlights)  
+
+
+(Abstract)
+
+
+(Introduction) 
+
+
+(Materials and Methods)  
 
 
 (Result and Discussion)  

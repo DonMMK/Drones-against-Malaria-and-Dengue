@@ -84,7 +84,7 @@ VI or Vegetation Index is actually a spectral index, i.e. a combination of spect
 
 - for image processing many avaible. for spot spraying hard to find papers.
 
-#### Meeting #3: Understanding the necessary software with Narmilan
+#### Meeting #3: Understanding the necessary software with Narmilan 28th February
 
 Software used: Agisoft Metasoft to create the ortho then import into QGIS for Cropping/ROI, Labelling and ML Processing
 
@@ -113,11 +113,8 @@ Labelling with id and class.
 
 Remeber which bands correspond
 
-#### Meeting #4:
+#### Meeting #4: Meeting with Felipe 9th March
 
-#### Meeting #5:
-
-#### Meeting #6:
 
 #### Meeting #7:
 
@@ -153,4 +150,11 @@ Remeber which bands correspond
 - Learning outcomes: Follow the style guide. 
 ![image](https://user-images.githubusercontent.com/71302996/223206192-e2edfff7-0274-429f-a37c-da38ff6ee481.png)
 ![image](https://user-images.githubusercontent.com/71302996/223206231-fbcc67db-36b3-44e0-9119-455cd027f43e.png)
+
+#### Week 2
+- Learning outcomes:
+
+- TO DO by the end of the week:
+
+- Risk Assessment. Fill out the risk assessment form. General HSE. When doing risk assessment evaluate all options taht pose a risk -> the story about how the oil rig or such catching fire bt people got injured due to jump off the rig. 
 

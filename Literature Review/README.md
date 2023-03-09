@@ -189,6 +189,8 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 
 (Abstract)
+- Vector borne dieseases cause severe public health and economic impacts to over half the global population
+- Typical methods of treating this larvae is laborious and slow. UAV use has rapidly expanded and has growing literature describing their potential applications. 
 
 
 (Introduction) 

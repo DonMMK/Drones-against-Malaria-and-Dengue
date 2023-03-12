@@ -118,7 +118,9 @@ Remeber which bands correspond
 a) Project deliverables
 b) Next steps with flying the drone m300
 c) licensing and other things needed for me
-d) For assessment. Requirements
+d) For assessment. Requirements 
+
+-> Moved these meeting notes with felipe to Work Progress reports
 
 #### Meeting #7:
 
@@ -162,3 +164,8 @@ d) For assessment. Requirements
 
 - Risk Assessment. Fill out the risk assessment form. General HSE. When doing risk assessment evaluate all options taht pose a risk -> the story about how the oil rig or such catching fire bt people got injured due to jump off the rig. 
 
+#### Week 3
+- Things to check at lecture => 
+1) Format of the work perfomance logs are correct (Agenda and discussion is fiulled out before the meeting and the rest is done during. The report will then be mailed to felipe within 24hrs of the meeting)
+2) Deliverables for week 4 and if there are latex templates and can we get full marks with current template
+3) About completing the HSE

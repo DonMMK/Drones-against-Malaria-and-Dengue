@@ -122,6 +122,39 @@ d) For assessment. Requirements
 
 -> Moved these meeting notes with felipe to Work Progress reports
 
+#### Meeting #5: Narmilan 14th March 
+- The JPG image is the rgb -> single camera
+- The tiff image is mutli-spectral -> when seecting this use multi camera -> sort to tiff file 
+- TO DO process pipeline for developing the orthomosaic (ariel and ground data)
+- TO DO develop vi with orthomosaic image
+- TO DO HSE Hub email refer to do the risk assessment with color (once done check with felipe)
+- Same email has info and purpose and useful tips
+- QUT Wiki ariel operations
+- Make the gaant chart into a weekly chart (check with lecturer)
+- this is multi so bring ortho and VI for ndvi ndre and exg 
+- batch processing and correct order (align photos mesh an otho)
+- There may be error when doing exporting images so there might be the need to do some raser transform or normalisation with the color bands. 
+- gcp correection or use rtk  for high accuracy n ortho image as to where it is. 
+- camera calibration using reflecting panel 
+- Band 1 -> B  
+- Band 2 -> G
+- Band 3 -> R
+- Band 4 -> Red Edge
+- Band 5 -> Near infra red 
+
+- When exporting the othomosaic the band 6 might appear which is the alpha channel that can be unchecked.
+
+- Once in QGIS do rastor calculation
+- NDVI = (Band 5 - Band 3) /(Band 3 + Band 5) where (NIR-R)/(NIR + R)
+- NDRE = (Band 5 - Band 4 ) / (Band 5 + Band 4 ) where ( NIR - red edge ) / ( NIR + red edge )
+- EXG = 2 * Green - Red - Blue
+
+- TO DO Re check all the images and re upload to seperate files
+- TO DO organize the folder for processing and better names
+
+
+#### Meeting #6:
+
 #### Meeting #7:
 
 #### Meeting #8:

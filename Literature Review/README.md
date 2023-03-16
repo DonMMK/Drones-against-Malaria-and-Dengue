@@ -190,18 +190,29 @@ ground losses in comparison to the best UAV-spray system configuration.
 
 (Abstract)
 - Vector borne dieseases cause severe public health and economic impacts to over half the global population
-- Typical methods of treating this larvae is laborious and slow. UAV use has rapidly expanded and has growing literature describing their potential applications. 
+- Typical methods of treating this larvae is laborious and slow. UAV use has rapidly expanded and has growing literature describing their potential applications.
+- UAVs are highly mobile are able to reach remote areas that might be inaccessible to other ground teams.
+- UAV's capabilities and limitations need to be assessed.
+- Surveillance, Deployment of payloads in comparison to current conventional methods   
 
+(Background)
+- "Vector-borne diseases (VBDs) are a leading cause of global morbidity and mortality, claiming over 700,000 lives annually with over half of the world’s population at risk of infection by at least one of these diseases" [WHO. Vector-borne diseases. Geneva: World Health Organization; 2017.] 
+- "insecticide resistance in
+vectors and changes in land use that may bring human
+populations into greater contact with vector"
+- "The key capabilities of UAVs are mobility and vantage point; aerial vehicles can rapidly transport sensors or a deployable payload (the cargo or equipment being carried by the UAV) over difficult terrain as well as obtain a bird’s eye view of an area of interest" [Kim J, Kim S, Ju C, Son HI. Unmanned aerial vehicles in agriculture. A
+review of perspective of platform, control, and applications. IEEE Access.
+2019;7:105100–15.]
+- "Emerging inexpensive commercial UAV's allows vector control programmes to acheive these objectives at an unprecedented speed and scale"
+- Two methods of combating VBD is to use UAV's as a surveillance tool (sensors, ir, multi spec camera). Secondly UAV's used to deliver vector control interventions to target site.
 
-(Introduction) 
+(Searching the literature)
+- Used PubMed database
 
-
-(Methodology)  
-2.1. Process Pipeline
-
-
-(Result and Discussion)  
-
+(UAV use in vector habitat surveillance)
+- "The abundance and distribution of malaria transmitting mosquitoes is dependent on the availability of water bodies to act as breeding sites"
+- To effectivley target the larvae up to date information needs to be collected about the locations. This can be done via UAVs with sensory equipment. 
+- Important to note that the water that may be muddy or covered by vegetation may be missed by visible spectrum sesnors. Hyperspectral sensors can detect water bodies by thier thermal signature
 
 (Conclusion)  
 

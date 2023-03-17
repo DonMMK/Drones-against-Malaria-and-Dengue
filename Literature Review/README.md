@@ -213,6 +213,13 @@ review of perspective of platform, control, and applications. IEEE Access.
 - "The abundance and distribution of malaria transmitting mosquitoes is dependent on the availability of water bodies to act as breeding sites"
 - To effectivley target the larvae up to date information needs to be collected about the locations. This can be done via UAVs with sensory equipment. 
 - Important to note that the water that may be muddy or covered by vegetation may be missed by visible spectrum sesnors. Hyperspectral sensors can detect water bodies by thier thermal signature
+- These drones can be used for rooftops that would otherwise be inaccessible by the technicians but this requires the local communites/law to be assessed prior to the flight
+- Paper showing this works well in Australia Sarira TV, Clarke K, Weinstein P, Koh LP, Lewis M. Rapid identification of
+shallow inundation for mosquito disease mitigation using drone-derived
+multispectral imagery. Geospat Health. 2020;15:1.
+- UAV limitations => susceptibility to windspeed and precipitation, limited battery life and resulting flight range as well as their dependance on manual control by a human operator.
+- vector control needs to be utillized when there is higher levels of rain which has negative implications on the ability to fly lightweight UAVs effectively.
+-
 
 (Conclusion)  
 

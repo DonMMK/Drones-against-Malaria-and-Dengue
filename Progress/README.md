@@ -154,6 +154,16 @@ d) For assessment. Requirements
 
 
 #### Meeting #6:
+after VI
+roi => to make the roi you need to make a vector 
+polygon
+
+
+Clip the ROI => 
+iterate over later when clipping raster by mask layer
+
+use power point
+
 
 #### Meeting #7:
 

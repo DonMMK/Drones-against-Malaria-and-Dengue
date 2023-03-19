@@ -57,6 +57,7 @@ ground losses in comparison to the best UAV-spray system configuration.
 - nothing to add to my experiment
 
 2.5 Enviromental conditions monitoring  
+-
 
 2.6 Droplet size spectra characteristics
 
@@ -219,11 +220,18 @@ shallow inundation for mosquito disease mitigation using drone-derived
 multispectral imagery. Geospat Health. 2020;15:1.
 - UAV limitations => susceptibility to windspeed and precipitation, limited battery life and resulting flight range as well as their dependance on manual control by a human operator.
 - vector control needs to be utillized when there is higher levels of rain which has negative implications on the ability to fly lightweight UAVs effectively.
--
 
-(Conclusion)  
+(Considerations in selecting the appropriate UAV)
+- Multi-rotor systems and the other being Fixed wing uavs
 
-#### Key Takeaways
+(Regulations on the use of UAVs for malaria control)
+- "Regulations may also add hidden costs to UAV opera- tions as certain countries may require license fees or costly local operator courses [34]. Perceptions of UAV use by the public may also vary from place to place [90, 91], though key concerns tended to focus on physi- cal safety and privacy. Consequently, it is advisable to conduct community engagement work prior to com- mencing operations as well as to include information on drones in broader educational materials on disease control"
+
+- UAVs good for terrain where it is inaccessible by conventional ground based methods.
+- These UAVs are also good because they can deploy payloads which make them suitable for the release of control agents at target locations that might otherwise be inaccessible.
+- "In particular, the growing market for UAVs that can transport and deploy large payloads of pesticides across extended flights for agricultural purposes may address the aforementioned issues of short range and payload capacity of UAVs currently used for insecticide spraying in malaria control. " <= addresses why we look at agriculture.
+- Accessing the scalability of UAV use for vector and surveillance and control there needs to be a fuel and electricity efficiency.
+
 
 
 #### UAV-based multispectral vegetation indices for assessing the interactive effects of water and nitrogen in iriigated horticultural crops production under tropical sub-humid conditions
@@ -255,25 +263,58 @@ multispectral imagery. Geospat Health. 2020;15:1.
 [High accuracy detection of malaria vector larval habits](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/High-accuracy%20detection%20of%20malaria%20vector.pdf)  
 
 ##### Important points
-(Highlights)  
-
-
 (Abstract)
-
+- Interest in larval source management (LSM) as an adjunct intervention to control and elimi- nate malaria transmission has recently increased mainly because long-lasting insecticidal nets (LLINs) and indoor residual spray (IRS) are ineffective against exophagic and exophilic mosquitoes
+- This study was able to distinguish between water bodies using high resolution multispectral imagery. 
 
 (Introduction) 
+- "The decline in their efficiency is associ- ated mainly with: a) insecticide contact avoidance by early-exiting behavior of mosquitoes feeding indoors [3]; b) increased outdoor feeding and transmission; c) zoophilic behavior; and d) insecticide resistance"
+- Due to vegetation it can be hard to detect ground truths
+- "Transmission occurs mainly during the rainy season, January—June, linked to river levels and mosquito abundance"
+- " Our main objective was to provide proof-of-concept of the suitability of high-resolution imagery (RGB band) to map Ny. darlingi aquatic habitats. Multi-spectral imaging data (including the normalized difference vegetation index- NDVI) was used to achieve sufficient resolution to identify water bodies potentially colonized by Ny. darlingi."
 
+(Methods: Ethics Approval)
 
-(Materials and Methods)  
+(Methods: Study Areas)
+- Mazan district (Maynas Province, Loreto Department, Peru
+- 
 
+(Methods: Study Design)
+- 4 places inspected at three times in the year:in September and November 2016 (dry season) and March 2017 (rainy season)
 
-(Result and Discussion)  
+(Methods: Data Collection)
 
+(Methods: Drone surveys)
+- DJI Phantom 4 Pro w/ RGB and DJI GO 4 app
+- 3DR Solo (3D Robotics, California, US)  w/ Sequoia Sensor (G R RE NIR) and 3DR solo app
+- Pix4D and ipad
+- 
 
-(Conclusion)  
+(Laboratory Procedures)
+- DNA gene analysed
 
-#### Key Takeaways
+(Data Processing - Orthomosaic Construction)
+- Agisoft Photoscan Pro to create and orthomosaic images
+- GCP needed if position of drone not captured using on board GPS
+- Process of ortho : (1) photo alignment (accuracy: highest; generic preselec- tion active, reference preselection active; Key point limit: 80,000; adaptive camera model fitting active); (2) dense cloud building (quality: high; depth filtering: aggressive); (3) digital elevation model (DEM) building (geographic projection using WGS 84 (EPSG:4326); resolution of 0.1 m and 0.02 m per pixel for the RGB and multispectral images respectively; interpolation: extrapolated; all point classes to generate digital surface model); (4) orthomosaic building (input surface: DEM; blending mode: mosaic; resolution of 0.1 m and 0.02 m per pixel for the RGB and multispectral images respectively).
 
+- NDVI = (NIR) - (R) / (NIR + R)
+
+(Image Classification)
+- Using Google Earth Engine
+- RF classification use pre-labeled data as input
+
+(Results - Mosquito breeding sites)
+- From all water bodies inspected, 18 (58%) were considered negative and 13 (42%) consistently positive for the presence of Ny. darlingi immature stag
+
+(Orthomosaics)
+- 
+
+(Discussion)
+- "drone-based high-resolution mapping of Ny. darlingi breeding sites in the Amazon region. Both RBG and multispectral imagery were successfully acquired, allowing the analysis of a greater number of water bodies than ground field inspection, as well as the determination of local characteristics of Ny. darlingi habitats. Overall, the most important result of this study is the accurate classification of water bodies that enables discrimination between those that are consistently colonized by Ny. darlingi immature stages and those that are not. We believe that this strategy represents a new tool for tailored interventions for control and surveillance of malaria transmission in rural communi- ties of the Peruvian Amazon and elsewhere"
+
+(Conclusions)
+- In summary, the use of high-resolution imagery can provide a better understanding of environment-related disease changes and can play a meaningful part in the development of decision-support tools. Our findings back the use of a low-cost UAVs and a freely available planetary cloud-based platform to achieve a highly accurate classification of the differential spectral signature of water bodies that harbor Ny. darlingi larvae and those that do not, in the Amazon region. This strategy might be generalizable to similar contexts elsewhere, resulting in new ways to control and survey malaria in affected settings, in combination with existing approaches.
 
 #### Leak detection in Water Transmission Systems by multispectral Remote Sensing with Airplane and UAV
 [Leak detection in Water Transmission Systems](https://github.com/DonMMK/Drones-against-Malaria-and-Dengue/blob/main/Literature%20Review/IGARSS2019.pdf)  

@@ -164,6 +164,10 @@ iterate over later when clipping raster by mask layer
 
 use power point
 
+![thumbnail_image (1)](https://user-images.githubusercontent.com/71302996/227064213-607c293e-67c8-4f6a-85ff-ac90282b8d9b.png)
+![thumbnail_image (2)](https://user-images.githubusercontent.com/71302996/227064227-c250b701-5faf-43b8-8e13-b24a9fa813d0.png)
+
+
 
 #### Meeting #7:
 

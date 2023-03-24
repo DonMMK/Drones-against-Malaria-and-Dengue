@@ -40,6 +40,9 @@ VI or Vegetation Index is actually a spectral index, i.e. a combination of spect
 
 - For the purposes of my project find Vegetation indices that can differentiate between grass and water puddles/logging. NDWI can be used, this is the Normalized Difference Water Index.
 
+#### How to validate and verify the results of the agras T10 spray flight 
+combination of ground truthing, aerial imagery, sampling, sensor data analysis, and calibration
+
 ## Meetings
 #### Meeting #1: Drone Spot Spraying at SERF with Felipe, Narmilan, Dean and Gavin on 14th February
 - For undergraduate thesis work help will be given on drone flying procedure and good to get hands on experience to write for the thesis.
